@@ -1,5 +1,6 @@
 # Metrics-To-Steer-Beginners-Forward-in-LOL
-Riot games's League of Legends has a problem retaining new players
+Riot games's League of Legends has a problem retaining new players.
+
 League of Legends and is considered to have a steep learning curve. As the League of Legends community ages, it gets progressively harder for new players to get into the game, especially against older players. As a free-to-play game offering zero means to outright buy a competitive edge over another player, most of the game's profits come from skins and other visual accessories.  it needs a large player pool to remain profitable, and new players help the most with this. This project seeks to identify key metrics for new players to focus on, so they do not get lost in a huge wave of information, with simple targets to work towards, making the game more beginner-friendly. After all, how do you improve at a game when you have no idea what to improve on? You could learn all the basic skills to be a 'good' player, and still not know where to focus your efforts in the actual game. Many are concerned with League of Legends' player base being mainly older players who are now in or entering their twenties. For the future, we should focus on new-player experiences to retain profitability. What metrics should new players work on to improve at league of legends instead of quitting out of frustration and loss of direction?
 
 
