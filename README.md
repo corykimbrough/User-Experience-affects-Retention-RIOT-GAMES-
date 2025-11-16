@@ -1,4 +1,4 @@
-# Metrics-To-Steer-Beginners-Forward-in-LOL
+# Adressing User Retention issue: Finding Key Metrics to inspire new players to Improve
 We are analyzing what the key metrics are in determining a win in league of legends, so that Riot Games can better prepare its new players to face senior players with a sense of direction.
 
 Riot games's League of Legends has a problem attracting new players to stick with the game. Senior Developers were publicly saying just months ago that the player base is aging, with fewer new players jumping into the game. 
