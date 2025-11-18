@@ -17,6 +17,9 @@ League of Legends is widely considered to have a steep learning curve. As the Le
 
 <img width="600" height="371" alt="Image" src="https://github.com/user-attachments/assets/d7f4c5f1-b087-473b-b9ff-767fe14dbdb5" />
 
+<img width="1451" height="835" alt="Image" src="https://github.com/user-attachments/assets/88054aa3-3a5c-4548-bd1e-955fc6b00f7d" />
+
+
 
 Analysis: I decided to analyze **data from season 15 (January-December 2025) from Riot Games API** on the European server. These are from real games and are publicly available through Riot Games. This data is across all ranks for the most popular 5v5 game mode, "Summoner's Rift" and features the same number of wins as losses. I analyzed factors such as kills, deaths, and team objectives for their correlation with win rate, as well as the win rate when conditions were met in a given game. A Factor that many players take pride in, champion-mastery level on a champion, was found to have almost 0 correlation with win rate (0.027). However, the highest correlation factor with win rate was not kills but was actually the number of dragons killed by your team that game (correlation of 0.58), signaling that this single factor was affecting win rate the most. The runner-up is the number of barons slain by the team (0.42), both of which are team objectives. Surprisingly, the number of personal deaths in a game (-0.39) had a much stronger correlation than kills did (0.275). Shockingly, with around 68,000 rows of player data for games, dying a low number of times almost skyrocketed the win percentage in the data set. Looking at the data, dying less times alongside focusing on major team objectives (dragons and barons) seems to be the most reliable way to win a game, as opposed to going for many player kills and tons of mastery (which you gain every time you play a champion) on a single champion.
 
