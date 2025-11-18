@@ -18,6 +18,7 @@ League of Legends is widely considered to have a steep learning curve. As the Le
 <img width="600" height="371" alt="Image" src="https://github.com/user-attachments/assets/d7f4c5f1-b087-473b-b9ff-767fe14dbdb5" />
 
 <img width="1451" height="835" alt="Image" src="https://github.com/user-attachments/assets/88054aa3-3a5c-4548-bd1e-955fc6b00f7d" />
+https://public.tableau.com/views/LOLFirstlooks/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 
 
 
